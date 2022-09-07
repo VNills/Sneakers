@@ -1,6 +1,6 @@
 
 # SneakersMania
-### MVP-версия магазина кроссовок.
+### Магазин кроссовок.
 ![sneakers-from-krasnodar](https://i.ibb.co/QpSCZMX/2022-03-15-09-39-18.png)
 
 <br/>
