@@ -1,0 +1,23 @@
+{
+  "name": "slippers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd client && npm install && npm run build",
+    "start": "cd server && npm install && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErnisBadmae/slippers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErnisBadmae/slippers/issues"
+  },
+  "homepage": "https://github.com/ErnisBadmae/slippers#readme",
+  "engines": {
+    "node": "14"
+  }
+}
